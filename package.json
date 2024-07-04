@@ -1,0 +1,20 @@
+{
+  "name": "f9-simple-cli-quiz-system",
+  "version": "1.0.0",
+  "description": "This is a CLI based Quiz System.\r Created Quiz System by using TypeScript, Node.js and npm.\r The app will show the students Multiple Choice Questions and promt the user to reply.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "quiz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.3.3"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
